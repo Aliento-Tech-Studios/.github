@@ -36,7 +36,7 @@ We are a specialized development studio focused on building modern web ecosystem
 
 We are always open to new challenges and collaborations.
 - **Website:** [alientotechstudios.com](https://alientotechstudios.com)
-- **Contact:** [contacto@alientotechstudios.com](mailto:contacto@alientotechstudios.com)
+- **Contact:** [contact@alientotechstudios.com](mailto:contact@alientotechstudios.com)
 - **Location:** Based in Maracay, Venezuela. Delivering globally.
 
 ---
