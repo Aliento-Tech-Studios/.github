@@ -3,7 +3,7 @@
 En Aliento Tech Studios, la seguridad es nuestra prioridad.
 
 ## Reportar vulnerabilidades
-Si descubres una vulnerabilidad de seguridad en cualquiera de nuestros proyectos, **por favor NO abras un Issue público**. 
+Si descubres una vulnerabilidad de seguridad en cualquiera de nuestros proyectos, de no ser parte del estudio **por favor NO abras un Issue público**. 
 
 Envía un correo electrónico privado a: **contact@alientotechstudios.com**
 
