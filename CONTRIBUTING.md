@@ -3,7 +3,7 @@
 ¡Bienvenido! Aliento Tech Studios valora la calidad, la seguridad y la legibilidad.
 
 ## Flujo de trabajo
-1. **Branching:** Para dev crea una rama desde `dev` con el formato `tipo/nombre-corto`. Para prdo, merge con `main`
+1. **Branching:** Para dev crea una rama desde `dev` con el formato `tipo/nombre-corto`. Para prod, merge con `main`
 2. **Commits:** Obligatorio seguir [Conventional Commits](https://www.conventionalcommits.org/).
    - `feat:` (funcionalidad nueva)
    - `fix:` (corrección de error)
